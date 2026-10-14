@@ -1,0 +1,10 @@
+{
+  "description": "Explore the Holy Sites of Makkah through an immersive interactive map, offering rich cultural insights and architectural storytelling for visitors.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
